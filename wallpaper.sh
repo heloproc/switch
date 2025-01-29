@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Path to the directory containing your wallpapers
-WALLPAPER_DIR=~/Pictures/wallpapers
+WALLPAPER_DIR=/path/to/wallpapers/directory
 
 # List of wallpaper files (directly in the script)
 WALLPAPERS=(
-  "$WALLPAPER_DIR/aw_alienfx_head_1920x1080_hd_screenfill_2021.jpeg"
-  "$WALLPAPER_DIR/kazuha-le-sserafim-4k-wallpaper-uhdpaper.com-467@1@g.jpg"
+  "$WALLPAPER_DIR/file-1.jpeg"
+  "$WALLPAPER_DIR/file-2.jpg"
 )
 
 # Get the current desktop environment (Gnome, KDE, etc.)
